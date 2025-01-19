@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhinavBist
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning algoritms and data structures 
+- 🌱 I’m currently learning web development
 - 📫 How to reach me abhinavbist05@gmail.com
 - ⚡ Fun fact: Fitness  -
  
